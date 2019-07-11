@@ -8,4 +8,4 @@ HTML, CSS, Javascript and PHP
 
 ![](images/calendar-schedmgt1.PNG)
 
-![](images/calendar-schedmgt4.PNG)
+![](images/calendar-schedmgt3.PNG)
