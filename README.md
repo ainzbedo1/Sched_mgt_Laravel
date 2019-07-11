@@ -6,6 +6,6 @@ HTML, CSS, Javascript and PHP
 
 ![](images/register-schedmgt.PNG)
 
-![](images/account-schedmgt1.PNG)
+![](images/calendar-schedmgt1.PNG)
 
-![](images/account-schedmgt4.PNG)
+![](images/calendar-schedmgt4.PNG)
